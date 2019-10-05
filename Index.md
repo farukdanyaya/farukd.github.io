@@ -1,3 +1,5 @@
+## welcome to Faruk Danyaya's Blog 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
