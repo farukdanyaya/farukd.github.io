@@ -1,6 +1,6 @@
 # [My portfolio - Faruk Danyaya](https://maraya.github.io)
 
-[Faruk Danyaya](http://faruk danyaya.github.io) [ This is my Developer Portfolio built using Bootstrap]
+[Faruk Danyaya](http://farukdanyaya.github.io) [ This is my Developer Portfolio built using Bootstrap]
 
 ## Preview
 
